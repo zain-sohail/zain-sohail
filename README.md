@@ -4,7 +4,7 @@
 
 ---
 
-Welcome to my GitHub profile! I’m a data scientist with a strong background in handling complex, multi-dimensional datasets. Below you’ll find an overview of my skills and expertise.
+Welcome to my GitHub profile! I’m a data scientist with a strong background in handling complex, multi-dimensional datasets. You can check out my [Portfolio here.](https://www.zainsohail.com/) Below you’ll find an open-source project I am maintaining.
 
 ## Key Project
 
@@ -28,4 +28,4 @@ I am currently maintaining [sed @ OpenCOMPES](https://github.com/OpenCOMPES/sed)
 
 ## Contact
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-zain-sohail) or reach out via [email](mailto:zainsohail04@gmail.com).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sohail-zain) or reach out via [email](mailto:contact@zainsohail.com).
